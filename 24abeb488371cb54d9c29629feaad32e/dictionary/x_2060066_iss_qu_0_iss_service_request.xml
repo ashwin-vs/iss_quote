@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="bfecab0c8371cb54d9c29629feaad3f8" label="ISS service request" max_length="40" name="x_2060066_iss_qu_0_iss_service_request" type="collection">
+        <element label="Expected start date" max_length="40" name="expected_start_date" type="glide_date"/>
+        <element label="Account" max_length="40" name="account" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Contact" max_length="40" name="contact" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
     </element>
 </database>

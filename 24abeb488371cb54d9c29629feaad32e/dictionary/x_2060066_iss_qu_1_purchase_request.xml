@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ac4a774c83f1cb54d9c29629feaad3f4" label="purchase request" max_length="40" name="x_2060066_iss_qu_1_purchase_request" type="collection">
+        <element label="Account" max_length="40" name="x_2060066_iss_qu_0_account" type="string"/>
+    </element>
+</database>
