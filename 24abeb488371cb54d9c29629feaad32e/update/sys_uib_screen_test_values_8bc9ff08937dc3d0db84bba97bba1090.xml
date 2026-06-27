@@ -20,8 +20,8 @@
         "sysparmView": null,
         "userPrefs": null
     },
-    "table": "task",
-    "sysId": "22bc3a4a18b672108bb255f46a373aed",
+    "table": "x_2060066_iss_qu_0_iss_service_request",
+    "sysId": "c03b38a4933587d0db84bba97bba107e",
     "query": "",
     "views": "",
     "activityLogs": "",
@@ -30,20 +30,56 @@
     "fields": "",
     "userPrefs": "",
     "selectedTabIndex": "",
-    "sysparmView": ""
+    "sysparmView": "",
+    "5865e308432021105571609dc7b8f23b": {
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "",
+        "columnLimit": 0,
+        "columnPreferenceKey": "",
+        "columns": "",
+        "currentPage": 0,
+        "enableCardClickOpen": false,
+        "enableCellFiltering": true,
+        "enableColumnFiltering": true,
+        "enableColumnGrouping": true,
+        "enableColumnSorting": true,
+        "enableDeclarativeActions": true,
+        "enableDotWalk": true,
+        "enableInfiniteScroll": false,
+        "enableLiveList": false,
+        "enableOnlySingleSelection": false,
+        "enableQuickEdit": false,
+        "enableQuickFormNavigation": false,
+        "enableReferenceLinks": true,
+        "enforceViewRulesForQuickForm": false,
+        "fetchHighlightedValues": true,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "listControllerId": "E1sV3wCcAE94743CwHbua1OBRN",
+        "listId": null,
+        "listType": "simple",
+        "liveUpdates": "off",
+        "nestBy": "",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "pageSysId": "0b18d454937107d0db84bba97bba1054",
+        "showListOpenedByLinkSection": null,
+        "table": "x_2060066_iss_qu_0_iss_service_request",
+        "view": ""
+    }
 }</macroponent_config>
         <screen display_value="Default">76c9bf08937dc3d0db84bba97bba10e6</screen>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-06-26 07:13:33</sys_created_on>
         <sys_id>8bc9ff08937dc3d0db84bba97bba1090</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
         <sys_update_name>sys_uib_screen_test_values_8bc9ff08937dc3d0db84bba97bba1090</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-27 05:48:04</sys_updated_on>
+        <sys_updated_on>2026-06-27 07:25:24</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>

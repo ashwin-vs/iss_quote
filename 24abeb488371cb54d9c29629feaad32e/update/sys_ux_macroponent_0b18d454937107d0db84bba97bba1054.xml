@@ -775,12 +775,110 @@
                                 },
                                 "elementId": "presentational_list_1",
                                 "elementLabel": "Presentational List",
-                                "eventMappings": [],
+                                "eventMappings": [
+                                    {
+                                        "eventMappingId": "9053f8cfcabb449dc2855df2ed935854",
+                                        "isConfiguration": false,
+                                        "offRowStorageId": null,
+                                        "sourceEventApiName": "now_list.NOW_LIST#CELL_LINK_CLICKED",
+                                        "sourceEventCorrelationId": null,
+                                        "sourceEventDefinition": {
+                                            "apiName": "now_list.NOW_LIST#CELL_LINK_CLICKED",
+                                            "id": null,
+                                            "type": "UXEVENT"
+                                        },
+                                        "sourceEventSysId": null,
+                                        "targets": [
+                                            {
+                                                "broker": null,
+                                                "clientScript": null,
+                                                "clientTransformScript": "",
+                                                "conditional": null,
+                                                "declarativeAction": null,
+                                                "event": {
+                                                    "apiName": "x_2060066_iss_qu_0.NAV_ITEM_SELECTED_RELAY_0b18d454937107d0db84bba97bba1054",
+                                                    "payload": {
+                                                        "container": {
+                                                            "external": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "fields": {
+                                                                "container": {
+                                                                    "sysId": {
+                                                                        "binding": {
+                                                                            "address": [
+                                                                                "cell",
+                                                                                "metadata",
+                                                                                "referenceSysId"
+                                                                            ]
+                                                                        },
+                                                                        "type": "EVENT_PAYLOAD_BINDING"
+                                                                    },
+                                                                    "table": {
+                                                                        "binding": {
+                                                                            "address": [
+                                                                                "cell",
+                                                                                "metadata",
+                                                                                "recordClassName"
+                                                                            ]
+                                                                        },
+                                                                        "type": "EVENT_PAYLOAD_BINDING"
+                                                                    }
+                                                                },
+                                                                "type": "MAP_CONTAINER"
+                                                            },
+                                                            "multiInstField": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "navigationOptions": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "params": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "passiveNavigation": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "redirect": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "route": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": "home"
+                                                            },
+                                                            "targetRoute": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            },
+                                                            "title": {
+                                                                "type": "JSON_LITERAL",
+                                                                "value": null
+                                                            }
+                                                        },
+                                                        "type": "MAP_CONTAINER"
+                                                    },
+                                                    "sysId": "d7edf8e0933587d0db84bba97bba1095"
+                                                },
+                                                "operation": null,
+                                                "targetId": "IXqaakPeeBkFbjjrIMgghrViinQy",
+                                                "type": "EVENT"
+                                            }
+                                        ]
+                                    }
+                                ],
                                 "isHero": true,
                                 "isHidden": null,
                                 "preset": {
                                     "controllerElementId": "list_controller_2",
-                                    "disabledEventTargetIds": [],
+                                    "disabledEventTargetIds": [
+                                        "b3b5ae2fe6068c9ec72d9739ca9f60d6"
+                                    ],
                                     "id": "33f6672f7d096e5a32e4e96b497748e4"
                                 },
                                 "propertyValues": {
@@ -790,7 +888,11 @@
                                     }
                                 },
                                 "slot": "left",
-                                "styles": {}
+                                "styles": {
+                                    "default": {
+                                        "flex": "1"
+                                    }
+                                }
                             },
                             {
                                 "bundleLink": {
@@ -806,7 +908,10 @@
                                 "elementId": "pagination_control_1",
                                 "elementLabel": "Pagination control",
                                 "eventMappings": [],
-                                "isHidden": null,
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": false
+                                },
                                 "preset": {
                                     "controllerElementId": "list_controller_2",
                                     "disabledEventTargetIds": [],
@@ -930,6 +1035,10 @@
                         }
                     }
                 ],
+                "styleClass": {
+                    "type": "JSON_LITERAL",
+                    "value": "height"
+                },
                 "version": "3.1.0"
             }
         },
@@ -1618,11 +1727,11 @@
             },
             "enableQuickEdit": {
                 "type": "JSON_LITERAL",
-                "value": true
+                "value": false
             },
             "enableQuickFormNavigation": {
                 "type": "JSON_LITERAL",
-                "value": true
+                "value": false
             },
             "enableReferenceLinks": {
                 "type": "JSON_LITERAL",
@@ -1630,7 +1739,7 @@
             },
             "enforceViewRulesForQuickForm": {
                 "type": "JSON_LITERAL",
-                "value": true
+                "value": false
             },
             "fetchHighlightedValues": {
                 "type": "JSON_LITERAL",
@@ -1667,11 +1776,15 @@
             },
             "listType": {
                 "type": "JSON_LITERAL",
-                "value": "default"
+                "value": "simple"
             },
             "liveUpdates": {
                 "type": "JSON_LITERAL",
                 "value": "off"
+            },
+            "nestBy": {
+                "type": "JSON_LITERAL",
+                "value": ""
             },
             "onlyEnableSelectionWhenRequiredByActions": {
                 "type": "JSON_LITERAL",
@@ -1692,7 +1805,7 @@
             },
             "table": {
                 "type": "JSON_LITERAL",
-                "value": "task"
+                "value": "x_2060066_iss_qu_0_iss_service_request"
             },
             "view": {
                 "type": "JSON_LITERAL",
@@ -1704,7 +1817,7 @@
 ]</data>
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
-        <dispatched_events/>
+        <dispatched_events>d7edf8e0933587d0db84bba97bba1095</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
@@ -1838,7 +1951,7 @@
         {
             "default": {
                 "base": {
-                    "height": "calc(100vh - 80px)"
+                    "height": "calc(100vh - 94px)"
                 }
             },
             "name": "height"
@@ -1858,14 +1971,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-06-26 09:25:59</sys_created_on>
         <sys_id>0b18d454937107d0db84bba97bba1054</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Default</sys_name>
         <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
         <sys_update_name>sys_ux_macroponent_0b18d454937107d0db84bba97bba1054</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-26 10:23:36</sys_updated_on>
+        <sys_updated_on>2026-06-27 08:02:02</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=0b18d454937107d0db84bba97bba1054"/>
 </record_update>

@@ -50,7 +50,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>76c9bf08937dc3d0db84bba97bba10e6</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
@@ -58,7 +58,7 @@
         <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
         <sys_update_name>sys_ux_screen_76c9bf08937dc3d0db84bba97bba10e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-27 05:48:03</sys_updated_on>
+        <sys_updated_on>2026-06-27 07:25:24</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=76c9bf08937dc3d0db84bba97bba10e6"/>
 </record_update>

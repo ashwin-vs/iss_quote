@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="opened" label="opened" language="en" table="x_2060066_iss_qu_0_iss_service_request">
+    <sys_documentation element="opened" label="Opened" language="en" table="x_2060066_iss_qu_0_iss_service_request">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>opened</element>
             <help/>
             <hint/>
-            <label>opened</label>
+            <label>Opened</label>
             <language>en</language>
             <name>x_2060066_iss_qu_0_iss_service_request</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-06-26 09:40:38</sys_created_on>
-            <sys_mod_count>4</sys_mod_count>
-            <sys_name>opened</sys_name>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_name>Opened</sys_name>
             <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
             <sys_policy/>
             <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
             <sys_update_name>sys_documentation_x_2060066_iss_qu_0_iss_service_request_opened_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-26 09:40:44</sys_updated_on>
+            <sys_updated_on>2026-06-27 06:27:00</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
