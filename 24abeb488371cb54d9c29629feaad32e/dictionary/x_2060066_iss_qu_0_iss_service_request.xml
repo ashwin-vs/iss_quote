@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="bfecab0c8371cb54d9c29629feaad3f8" label="ISS service request" max_length="40" name="x_2060066_iss_qu_0_iss_service_request" type="collection">
+        <element label="Assignment group" max_length="40" name="assignment_group" type="string"/>
+        <element label="Assined to" max_length="40" name="assined_to" type="string"/>
+        <element choice="3" label="Priority" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hard" sequence="2" value="hard"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Nomal" sequence="0" value="nomal"/>
+            </choice>
+        </element>
         <element label="Expected start date" max_length="40" name="expected_start_date" type="glide_date"/>
-        <element label="Account" max_length="40" name="account" type="string"/>
+        <element label="Account" mandatory="true" max_length="40" name="account" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Contact" max_length="40" name="contact" type="string"/>
+        <element label="Requested by" max_length="40" name="requested_by" type="string"/>
+        <element label="short description" max_length="40" name="short_description" type="string"/>
+        <element label="opened" max_length="40" name="opened" type="glide_date_time"/>
+        <element choice="3" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="closed" sequence="2" value="closed"/>
+                <element inactive_on_update="false" label="completed" sequence="1" value="completed"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+            </choice>
+        </element>
+        <element label="Contact" mandatory="true" max_length="40" name="contact" type="string"/>
+        <element label="Expeted end date" max_length="40" name="expeted_end_date" type="glide_date"/>
         <element label="Location" max_length="40" name="location" type="string"/>
     </element>
 </database>

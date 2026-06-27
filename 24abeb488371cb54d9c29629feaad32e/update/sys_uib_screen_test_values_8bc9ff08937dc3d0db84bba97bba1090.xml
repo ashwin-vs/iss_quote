@@ -4,37 +4,46 @@
         <macroponent_config>{
     "029f04e053610110ac9bddeeff7b1294": {
         "activityLogs": null,
+        "delayRecommendationFetching": "",
         "detailsContext": null,
         "fields": null,
         "forcedViewName": null,
         "inputExtraParams": null,
         "inputQuery": null,
-        "inputSysId": null,
-        "inputTable": null,
+        "inputSysId": "784d98d88339cb54d9c29629feaad385",
+        "inputTable": "x_2060066_iss_qu_0_iss_service_request",
+        "isMappedToAppShell": true,
+        "overrideAppContextConfigIds": false,
         "screen": null,
         "selectedTabIndex": null,
-        "userPrefs": null,
-        "overrideAppContextConfigIds": false,
-        "delayRecommendationFetching": "",
-        "sysparmView": null,
         "shouldSuppressGlobalEvents": true,
-        "isMappedToAppShell": false
+        "sysparmView": null,
+        "userPrefs": null
     },
     "table": "task",
-    "sysId": "22bc3a4a18b672108bb255f46a373aed"
+    "sysId": "22bc3a4a18b672108bb255f46a373aed",
+    "query": "",
+    "views": "",
+    "activityLogs": "",
+    "extraParams": "",
+    "screen": "",
+    "fields": "",
+    "userPrefs": "",
+    "selectedTabIndex": "",
+    "sysparmView": ""
 }</macroponent_config>
         <screen display_value="Default">76c9bf08937dc3d0db84bba97bba10e6</screen>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-06-26 07:13:33</sys_created_on>
         <sys_id>8bc9ff08937dc3d0db84bba97bba1090</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
         <sys_update_name>sys_uib_screen_test_values_8bc9ff08937dc3d0db84bba97bba1090</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-26 09:11:00</sys_updated_on>
+        <sys_updated_on>2026-06-27 05:48:04</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>
