@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>Customer Information Section</description>
+        <display_title>true</display_title>
+        <internal_name>customer_information</internal_name>
+        <layout>2across</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 10:17:11</sys_created_on>
+        <sys_id>623ddb06933d8310db84bba97bba1048</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Customer Information</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_update_name>item_option_new_set_623ddb06933d8310db84bba97bba1048</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-07-02 10:35:06</sys_updated_on>
+        <title>Customer Information</title>
+        <type>one_to_one</type>
+        <version>13</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

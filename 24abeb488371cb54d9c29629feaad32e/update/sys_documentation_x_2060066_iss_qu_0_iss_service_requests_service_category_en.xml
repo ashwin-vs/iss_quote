@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="service_category" label="Level 1: Service Category" language="en" table="x_2060066_iss_qu_0_iss_service_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>service_category</element>
+            <help/>
+            <hint/>
+            <label>Level 1: Service Category</label>
+            <language>en</language>
+            <name>x_2060066_iss_qu_0_iss_service_requests</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-07-02 07:16:17</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Level 1: Service Category</sys_name>
+            <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+            <sys_update_name>sys_documentation_x_2060066_iss_qu_0_iss_service_requests_service_category_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-07-02 07:16:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

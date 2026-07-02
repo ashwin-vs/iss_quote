@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="6d3d18d88339cb54d9c29629feaad350" sys_domain="global" table="x_2060066_iss_qu_0_iss_service_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-26 09:48:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>653d18d88339cb54d9c29629feaad3ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2060066_iss_qu_0_iss_service_request" name="x_2060066_iss_qu_0_iss_service_request" sys_domain="global" view="Default view">6d3d18d88339cb54d9c29629feaad350</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_2060066_iss_qu_0_iss_service_request" sys_domain="global" view="Default view">fcfc63488371cb54d9c29629feaad378</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-26 09:48:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2060066_iss_qu_0_iss_service_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-26 09:48:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d3d18d88339cb54d9c29629feaad350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2060066_iss_qu_0_iss_service_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6d3d18d88339cb54d9c29629feaad350</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-26 09:48:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</application>
+        <file_path/>
+        <instance_id>787f5219ff9d0b10c80bf8e4fc4fd9ef</instance_id>
+        <instance_name>dev398891</instance_name>
+        <name>sys_ui_form_sections_6d3d18d88339cb54d9c29629feaad350</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="6d3d18d88339cb54d9c29629feaad350" sys_domain="global" table="x_2060066_iss_qu_0_iss_service_request" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 09:48:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>653d18d88339cb54d9c29629feaad3ae</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_2060066_iss_qu_0_iss_service_request" name="x_2060066_iss_qu_0_iss_service_request" sys_domain="global" view="Default view">6d3d18d88339cb54d9c29629feaad350</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_2060066_iss_qu_0_iss_service_request" sys_domain="global" view="Default view">fcfc63488371cb54d9c29629feaad378</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 09:48:17</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_2060066_iss_qu_0_iss_service_request</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-26 09:48:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6d3d18d88339cb54d9c29629feaad350</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2060066_iss_qu_0_iss_service_request</sys_name><sys_overrides/><sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package><sys_policy/><sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope><sys_update_name>sys_ui_form_sections_6d3d18d88339cb54d9c29629feaad350</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-26 09:48:16</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>-931393688</payload_hash>
+        <record_name>ISS service request</record_name>
+        <reverted_from/>
+        <source>40887744937dc3d0db84bba97bba10bc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-27 06:23:01</sys_created_on>
+        <sys_id>e8d7fcac93f187d0db84bba97bba10f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f07beef660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-27 06:23:01</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>2cd7fcac7af187d00b5bf744a3bfe3f0</update_guid>
+        <update_guid_history>2cd7fcac7af187d00b5bf744a3bfe3f0:-931393688,0344fca497f187d01ba57101be207622:1456365817</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 06:46:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>0b69cc9ff923437abba13812d4877cb1</sys_id>
+        <sys_metadata>6d3d18d88339cb54d9c29629feaad350</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2060066_iss_qu_0_iss_service_request</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_parent display_value="">bfecab0c8371cb54d9c29629feaad3f8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_scope_delete display_value="">7380e3a2d5c54a9390d5d708b92ce141</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_6d3d18d88339cb54d9c29629feaad350</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_6d3d18d88339cb54d9c29629feaad350">e8d7fcac93f187d0db84bba97bba10f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-02 06:46:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

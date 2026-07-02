@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="48bd2e8a93758310db84bba97bba1094" extends="task" label="ISS Service Requests" max_length="40" name="x_2060066_iss_qu_0_iss_service_requests" type="collection">
+        <element label="Currency" max_length="32" name="currency" reference="fx_currency" type="reference"/>
+        <element label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element label="Account" max_length="32" name="account" reference="customer_account" type="reference"/>
+        <element label="Delivery / Service Location" max_length="40" name="delivery_service_location" type="string"/>
+        <element label="Delivery / Service Address" max_length="40" name="delivery_service_address" type="string"/>
+        <element label="Contact" max_length="32" name="contact" reference="customer_contact" type="reference"/>
+        <element label="Level 2: Service Type" max_length="32" name="service_type" reference="service_entitlement" type="reference"/>
+        <element label="Reason" max_length="255" name="reason" type="string"/>
+        <element label="Level 1: Service Category" max_length="32" name="service_category" reference="service_entitlement" type="reference"/>
+        <element label="Expected End" max_length="40" name="expected_end" type="string"/>
+        <element label="Level 3: Service Item" max_length="32" name="service_item" reference="service_entitlement" type="reference"/>
+    </element>
+</database>

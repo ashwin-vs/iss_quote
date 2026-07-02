@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="">c8b1528a93718310db84bba97bba10b3</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 04:52:48</sys_created_on>
+        <sys_id>0023524e93718310db84bba97bba10b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Request.SNC External</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_0023524e93718310db84bba97bba10b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-02 04:52:48</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</application>
+        <file_path/>
+        <instance_id>787f5219ff9d0b10c80bf8e4fc4fd9ef</instance_id>
+        <instance_name>dev398891</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_0023524e93718310db84bba97bba10b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">c8b1528a93718310db84bba97bba10b3</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-02 04:52:48</sys_created_on><sys_id>0023524e93718310db84bba97bba10b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Request.SNC External</sys_name><sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package><sys_policy/><sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_0023524e93718310db84bba97bba10b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-02 04:52:48</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-1156391894</payload_hash>
+        <record_name>Service Request.SNC External</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 10:11:54</sys_created_on>
+        <sys_id>122cdf42933d8310db84bba97bba1032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f2250484f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-02 10:11:54</sys_updated_on>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>de2cdf42923d831026ebd5da026e3131</update_guid>
+        <update_guid_history>de2cdf42923d831026ebd5da026e3131:-1156391894</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Request.SNC External">122cdf42933d8310db84bba97bba1033</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 10:11:54</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>0a06cb7446c04b3988722a12453bb9c9</sys_id>
+        <sys_metadata>0023524e93718310db84bba97bba10b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Request.SNC External</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_scope_delete display_value="">7380e3a2d5c54a9390d5d708b92ce141</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_0023524e93718310db84bba97bba10b0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_0023524e93718310db84bba97bba10b0">122cdf42933d8310db84bba97bba1032</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-02 10:11:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

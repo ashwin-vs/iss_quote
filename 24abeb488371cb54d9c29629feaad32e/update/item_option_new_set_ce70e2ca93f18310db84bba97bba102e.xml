@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>when</internal_name>
+        <layout>2across</layout>
+        <name/>
+        <order>300</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 05:51:30</sys_created_on>
+        <sys_id>ce70e2ca93f18310db84bba97bba102e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>When</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_update_name>item_option_new_set_ce70e2ca93f18310db84bba97bba102e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-02 06:04:33</sys_updated_on>
+        <title>When</title>
+        <type>one_to_one</type>
+        <version>3</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

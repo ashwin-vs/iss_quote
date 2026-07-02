@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-26 06:17:31</sys_created_on>
+        <sys_id>5afcaf0c8371cb54d9c29629feaad310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2060066_iss_qu_0_iss_service_request.x_2060066_iss_qu_0.admin</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_security_acl display_value="x_2060066_iss_qu_0_iss_service_request">5efcaf0c8371cb54d9c29629feaad306</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5afcaf0c8371cb54d9c29629feaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-26 06:17:31</sys_updated_on>
+        <sys_user_role display_value="x_2060066_iss_qu_0.admin" name="x_2060066_iss_qu_0.admin">38abeb488371cb54d9c29629feaad371</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</application>
+        <file_path/>
+        <instance_id>787f5219ff9d0b10c80bf8e4fc4fd9ef</instance_id>
+        <instance_name>dev398891</instance_name>
+        <name>sys_security_acl_role_5afcaf0c8371cb54d9c29629feaad310</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-26 06:17:31</sys_created_on>
+        <sys_id>5afcaf0c8371cb54d9c29629feaad310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2060066_iss_qu_0_iss_service_request.x_2060066_iss_qu_0.admin</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_security_acl display_value="x_2060066_iss_qu_0_iss_service_request">5efcaf0c8371cb54d9c29629feaad306</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5afcaf0c8371cb54d9c29629feaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-26 06:17:31</sys_updated_on>
+        <sys_user_role display_value="x_2060066_iss_qu_0.admin" name="x_2060066_iss_qu_0.admin">38abeb488371cb54d9c29629feaad371</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>-1718238908</payload_hash>
+        <record_name>x_2060066_iss_qu_0_iss_service_request.x_2060066_iss_qu_0.admin</record_name>
+        <reverted_from/>
+        <source>a2d4bfc8933dc3d0db84bba97bba1034</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-26 06:52:04</sys_created_on>
+        <sys_id>5ce4730c933dc3d0db84bba97bba108c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f02b32a1a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-26 06:52:04</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>94e4730cda3dc3d027228d485a37958c</update_guid>
+        <update_guid_history>94e4730cda3dc3d027228d485a37958c:0,df94bb48383dc3d0c07e02f99eea609e:1958138549,dc333784a73dc3d02988e04f0c96bd52:-1718238908</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_2060066_iss_qu_0_iss_service_request.x_2060066_iss_qu_0.admin">7e2da64a93758310db84bba97bba102a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-02 06:46:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>07f7b2eebd2f4fe28047bda132f273c4</sys_id>
+        <sys_metadata>5afcaf0c8371cb54d9c29629feaad310</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2060066_iss_qu_0_iss_service_request.x_2060066_iss_qu_0.admin</sys_name>
+        <sys_package display_value="ISS QUOTE" source="x_2060066_iss_qu_0">24abeb488371cb54d9c29629feaad32e</sys_package>
+        <sys_parent display_value="">5efcaf0c8371cb54d9c29629feaad306</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ISS QUOTE">24abeb488371cb54d9c29629feaad32e</sys_scope>
+        <sys_scope_delete display_value="">7380e3a2d5c54a9390d5d708b92ce141</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5afcaf0c8371cb54d9c29629feaad310</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5afcaf0c8371cb54d9c29629feaad310">5ce4730c933dc3d0db84bba97bba108c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-02 06:46:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
